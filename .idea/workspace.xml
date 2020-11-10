@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="977507a2-081f-48d2-8a8d-a69eabcf25a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="GraphQL File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jGVCKc3j10GikxVVx5mJ63GtGS" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chat-front" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Omega\projects\ChatBack\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="ts.external.directory.path" value="C:\Программирование\WebStorm 2020.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Omega\projects\ChatBack\util" />
+      <recent name="C:\Users\Omega\projects\ChatBack" />
+      <recent name="C:\Users\Omega\projects\ChatBack\graphql" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Omega\projects\ChatBack" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="977507a2-081f-48d2-8a8d-a69eabcf25a8" name="Default Changelist" comment="" />
+      <created>1603430287126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603430287126</updated>
+      <workItem from="1603430288240" duration="350000" />
+      <workItem from="1603430649700" duration="3163000" />
+      <workItem from="1603433827761" duration="11874000" />
+      <workItem from="1603451265351" duration="476000" />
+      <workItem from="1603453182308" duration="2677000" />
+      <workItem from="1603711024055" duration="14000" />
+      <workItem from="1603716115307" duration="1331000" />
+      <workItem from="1603717839401" duration="2181000" />
+      <workItem from="1603780907933" duration="613000" />
+      <workItem from="1603783758843" duration="12000" />
+      <workItem from="1604040928992" duration="10472000" />
+      <workItem from="1604294333724" duration="4441000" />
+      <workItem from="1604409221129" duration="2086000" />
+      <workItem from="1604561358571" duration="6646000" />
+      <workItem from="1604642230151" duration="10030000" />
+      <workItem from="1604900224547" duration="9000" />
+      <workItem from="1604918846276" duration="619000" />
+      <workItem from="1604984888374" duration="970000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1485" y="232" key="#JavaScript" timestamp="1603438060951">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1485" y="232" key="#JavaScript/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603438060951" />
+    <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604051693353">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604051693353" />
+    <state x="461" y="278" key="FileChooserDialogImpl" timestamp="1604985256396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="278" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604900231549" />
+    <state x="461" y="278" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604985256396" />
+    <state width="1170" height="273" key="GridCell.Tab.0.bottom" timestamp="1603433707863">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1170" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603433707863" />
+    <state width="1170" height="273" key="GridCell.Tab.0.center" timestamp="1603433707863">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1170" height="273" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603433707863" />
+    <state width="1170" height="273" key="GridCell.Tab.0.left" timestamp="1603433707863">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1170" height="273" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603433707863" />
+    <state width="1170" height="273" key="GridCell.Tab.0.right" timestamp="1603433707863">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1170" height="273" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603433707863" />
+    <state x="-1738" y="168" key="SettingsEditor" timestamp="1603439845599">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1738" y="168" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603439845599" />
+    <state x="-1117" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1604648169028">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1117" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604648169028" />
+  </component>
+</project>

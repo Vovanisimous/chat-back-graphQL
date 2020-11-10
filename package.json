@@ -1,0 +1,26 @@
+{
+  "name": "ChatBack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.ts",
+  "dependencies": {
+    "apollo-server": "^2.18.2",
+    "bcrypt": "^5.0.0",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^15.3.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.2.5",
+    "prettier": "^2.1.2",
+    "sequelize": "^6.3.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "dev": "nodemon server.ts",
+    "start": "node server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

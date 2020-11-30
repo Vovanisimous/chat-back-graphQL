@@ -102,7 +102,7 @@ module.exports = {
                     })
                 }
 
-                pubsub.publish('NEW_REACTION', {newReaction: reaction})
+                await pubsub.publish('NEW_REACTION', {newReaction: reaction})
 
                 return reaction
             } catch (err) {
